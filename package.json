@@ -1,0 +1,28 @@
+{
+  "name": "mock-axios",
+  "version": "0.0.1",
+  "description": "mocking axios are so simple!",
+  "main": "dist/index.js",
+  "dependencies": {
+    "axios": "^0.18.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthurkarganyan/mock-axios.git"
+  },
+  "keywords": [
+    "axios",
+    "mock"
+  ],
+  "author": "Arthur Karganyan, Ben Alman",
+  "license": "MIT",
+  "types": "dist/index.d.ts",
+  "bugs": {
+    "url": "https://github.com/arthurkarganyan/mock-axios/issues"
+  },
+  "homepage": "https://github.com/arthurkarganyan/mock-axios#readme"
+}
