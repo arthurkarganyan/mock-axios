@@ -3,7 +3,7 @@ Axios Mocking from https://gist.github.com/cowboy/44ae5deed5d04d2cf28f2087fde2c8
 
 # Usage
 
-```
+```js
 import axios from 'axios'
 import  {addMock, enableMocking} from './mock-axios'
 
